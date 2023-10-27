@@ -42,6 +42,7 @@ int main()
     vector<char> c;
 
     // Input should be taken from the user.
+
     Solution obj;
     obj.compress(c);
 }
